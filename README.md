@@ -1,2 +1,0 @@
-# todolistjavascript
-todolist using javascript
